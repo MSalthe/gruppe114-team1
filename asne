@@ -1,1 +1,4 @@
 hei
+git add .
+git commit -m "en melding"
+git push
